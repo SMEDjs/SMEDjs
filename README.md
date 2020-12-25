@@ -6,7 +6,7 @@
 > Discord: *SMED#8517*<br>
 > Twitter: *@iSweeed*<br>
 > Ko-fi: *Smed_dev*
-> - ⚡ About me: 16 | French 
+> - ⚡ About me: 17 | French 
 
 <img src="https://github-readme-stats.vercel.app/api?username=SMEDjs&show_icons=true&hide_border=true&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMEDjs&theme=tokyonight"/>
